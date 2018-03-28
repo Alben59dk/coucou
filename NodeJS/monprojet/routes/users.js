@@ -1,5 +1,5 @@
 let express = require('express')
-Let router = express.Router()
+let router = express.Router()
 
 /* GET users listing. */
 router.get('/', function (req, res, next) {

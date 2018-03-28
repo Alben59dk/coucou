@@ -10,8 +10,10 @@
     "cowsay": "^1.2.1",
     "debug": "~2.6.9",
     "express": "~4.16.0",
+    "handlebars": "^4.0.11",
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0",
-    "pug": "2.0.0-beta11"
+    "npm": "^5.8.0",
+    "pug": "^2.0.0-beta11"
   }
 }
